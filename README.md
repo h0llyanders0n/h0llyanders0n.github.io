@@ -1,4 +1,4 @@
-#Coding Portfolio - Holly Anderson
+# Coding Portfolio - Holly Anderson
 
 A collection of my coding projects. 
 
