@@ -25,3 +25,6 @@
     font-family:Georgia, 'Times New Roman', Times, serif;
     margin: 30px;
   }
+  .btn:hover{
+    color:tomato
+  }
